@@ -3,7 +3,7 @@ import Sidebar from './sidebar/Sidebar'
 import Profile from './profile/Profile'
 import Footer from './footer/footer'
 import styles from './Body.module.css'
-import SubHeader from '../header/SubHeader'
+import SubHeader from '../Header1/SubHeader'
 function Body() {
   return (
     <div className={styles.body_container}>
