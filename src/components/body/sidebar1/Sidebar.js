@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from './sidebar.module.css'
+import styles from './Sidebar.module.css'
 import { HP, DASHBOARD,JOBS_OUTLINE,PROFILES, FOLLOWERS,ENTERPRISE,COLLABORATION, CONVERSATION} from '../../../utils/images'
 const Sidebar = ()=> {
   return (
